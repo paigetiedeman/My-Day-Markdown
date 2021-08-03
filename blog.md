@@ -9,4 +9,4 @@
 
 My day was not long but I am **tired**
 
-[Click Here] (https://github.com/paigetiedeman) to see my GitHub!
+[Click Here](https://github.com/paigetiedeman) to see my GitHub!
