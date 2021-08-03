@@ -9,4 +9,4 @@
 
 My day was not long but I am **tired**
 
-[Click Here] (https://hips.hearstapps.com/countryliving.cdnds.net/17/47/1511194376-cavachon-puppy-christmas.jpg) to see a picture of a puppy!
+[Click Here] (https://github.com/paigetiedeman) to see my GitHub!
